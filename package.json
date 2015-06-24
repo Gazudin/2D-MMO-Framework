@@ -1,0 +1,13 @@
+{
+	"name" : "2dmmo",
+	"version" : "0.0.1",
+	"private" : true,
+	"dependencies" : {
+		"minimist" : "*",
+		"extend" : "*",
+		"binary-parser" : "1.1.2",
+		"mongoose" : "*",
+		"underscore" : "*",
+		"performance-now" : "*"
+	}
+}
